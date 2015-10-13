@@ -1,5 +1,6 @@
 # Zelda2MapDump
-Zelda 2 Map Dump is a quick hack to dump the map from Zelda II - The Adventure of Link, to .png-files.
+Zelda2MapDump is a quick hack to dump the map from Zelda II - The Adventure of Link, to .png-files. The idea was to enable a quick way to create maps for the various hacks of Zelda II out there.
+
 Tested to run on PHP5 with the GD-library.
 
 Run on command line with "php zelda2mapdump.php <rom file>"
